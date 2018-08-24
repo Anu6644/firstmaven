@@ -16,6 +16,6 @@ public class helloworld extends HttpServlet {
    protected void doGet(HttpServletRequest req, HttpServletResponse resp) 
          throws ServletException, IOException {
       resp.setContentType("text/plain");
-      resp.getWriter().write("Hello World! Maven Web Project Example123.");
+      resp.getWriter().write("Hello World! Maven Web Project Example.");
    }
 }
