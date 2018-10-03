@@ -32,7 +32,11 @@
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/anchoudhary/eclipse-workspace/MyfirstrestAPI/WebContent/WEB-INF/lib/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anchoudhary/eclipse-workspace/MyfirstrestAPI/WebContent/WEB-INF/lib/cdi-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anchoudhary/eclipse-workspace/MyfirstrestAPI/WebContent/WEB-INF/lib/javax.ws.rs-api-2.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
