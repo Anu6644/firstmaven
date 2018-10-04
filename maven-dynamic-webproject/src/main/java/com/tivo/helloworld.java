@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 public class helloworld extends HttpServlet {
 
    private static final long serialVersionUID = 1L;
-public String str="Hello";
+public String str="Hello, This is for testing pipeline_demoo";
 
    @Override
    public void doGet(HttpServletRequest req, HttpServletResponse resp) 
